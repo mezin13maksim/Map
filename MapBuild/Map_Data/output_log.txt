@@ -1,0 +1,168 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 550 Ti (ID=0x1244)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+    Driver:   9.18.13.5306
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Admin.Admin_\Desktop\VoenkaSource\MapBuild\Map_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Admin.Admin_\Desktop\VoenkaSource\MapBuild\Map_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin.Admin_\Desktop\VoenkaSource\MapBuild\Map_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Admin.Admin_\Desktop\VoenkaSource\MapBuild\Map_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin.Admin_\Desktop\VoenkaSource\MapBuild\Map_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Admin.Admin_\Desktop\VoenkaSource\MapBuild\Map_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin.Admin_\Desktop\VoenkaSource\MapBuild\Map_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Admin.Admin_\Desktop\VoenkaSource\MapBuild\Map_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\Users\Admin.Admin_\Desktop\VoenkaSource\MapBuild\Map_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Admin.Admin_\Desktop\VoenkaSource\MapBuild\Map_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.340581 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 124c -> priority: 1 
+  Thread -> id: 1234 -> priority: 1 
+  Thread -> id: 16a4 -> priority: 1 
+{
+    "list": [
+        {
+            "name": "Line",
+            "position": {
+                "x": 269.5238037109375,
+                "y": -0.5000076293945313,
+                "z": 468.53631591796877
+            },
+            "rotation": {
+                "x": 0.6649619936943054,
+                "y": -0.24046951532363892,
+                "z": 0.24046951532363892,
+                "w": 0.6649619936943054
+            },
+            "scale": {
+                "x": 20.000001907348634,
+                "y": 20.000011444091798,
+                "z": 20.000011444091798
+            },
+            "text": "Направление",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "sprite": "Line/L5",
+            "width": 0.20000000298023225,
+            "height": 2.836658477783203,
+            "fontStyle": 0,
+            "spriteNum": 0
+        },
+        {
+            "name": "Line",
+            "position": {
+                "x": 298.2991943359375,
+                "y": -0.5000076293945313,
+                "z": 456.20660400390627
+            },
+            "rotation": {
+                "x": 0.5529395937919617,
+                "y": 0.44074687361717226,
+                "z": -0.44074687361717226,
+                "w": 0.5529395937919617
+            },
+            "scale": {
+                "x": 19.9999942779541,
+                "y": 19.9999942779541,
+                "z": 20.0
+            },
+            "text": "Направление",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "sprite": "Line/L5",
+            "width": 0.20000000298023225,
+            "height": 3.1260271072387697,
+            "fontStyle": 0,
+            "spriteNum": 0
+        },
+        {
+            "name": "Line",
+            "position": {
+                "x": 280.0685119628906,
+                "y": -0.5,
+                "z": 419.924072265625
+            },
+            "rotation": {
+                "x": 0.07993011921644211,
+                "y": 0.7025747299194336,
+                "z": -0.7025747299194336,
+                "w": 0.07993011921644211
+            },
+            "scale": {
+                "x": 20.00003433227539,
+                "y": 20.000022888183595,
+                "z": 20.000011444091798
+            },
+            "text": "Направление",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "sprite": "Line/L5",
+            "width": 0.20000000298023225,
+            "height": 2.586165428161621,
+            "fontStyle": 0,
+            "spriteNum": 0
+        },
+        {
+            "name": "Line",
+            "position": {
+                "x": 243.25173950195313,
+                "y": -0.5,
+                "z": 440.74273681640627
+            },
+            "rotation": {
+                "x": 0.3873482048511505,
+                "y": -0.5915753245353699,
+                "z": 0.5915753245353699,
+                "w": 0.3873482048511505
+            },
+            "scale": {
+                "x": 20.0000057220459,
+                "y": 20.0000057220459,
+                "z": 20.0
+            },
+            "text": "Направление",
+            "color": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "sprite": "Line/L5",
+            "width": 0.20000000298023225,
+            "height": 2.9051268100738527,
+            "fontStyle": 0,
+            "spriteNum": 0
+        }
+    ]
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sprite Tiling might not appear correctly because the Sprite used is not generated with Full Rect. To fix this, change the Mesh Type in the Sprite's import setting to Full Rect
+ 
+(Filename:  Line: 458)
+
